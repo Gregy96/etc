@@ -6,7 +6,8 @@
     "autoload": {
         "psr-4": {
             "": ""
-        }
+        },
+        "files": [ "magebirdpopup.php","pub/magebirdpopup.php" ]
     },
     "minimum-stability": "dev"
   }
