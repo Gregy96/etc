@@ -1,7 +1,7 @@
 {
     "name": "magebird/etc",
     "description": "TaxJar Sales Tax Module for Magento 2",
-    "type": "magento2-module",
+    "type": "metapackage",
     "license": "OSL-3.0",
     "autoload": {
         "psr-4": {
