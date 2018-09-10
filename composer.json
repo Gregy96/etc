@@ -1,1 +1,8 @@
-{}
+{
+    "name": "magebird/etc",
+    "description": "TaxJar Sales Tax Module for Magento 2",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    
+    "minimum-stability": "dev"
+  }
