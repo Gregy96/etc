@@ -17,11 +17,12 @@
           "pub"
       ],
       [
-          "wysiwyg/*",
-          "pub/media/wysiwyg"
-      ],
+        "wy/*",
+        "pub/media/wysiwyg"
+    ],
       
-      
+    
+   
       [
           "ostalo/*",
           ""
