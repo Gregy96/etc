@@ -5,17 +5,18 @@
     "extra": {
         "map": [
           [
-            "lib/*",
-            ""
-          ],
-          [
-            "lib/*",
-            "pub"
+            "lib/internal/*",
+            "lib/internal/"
           ],
           [
               "pub/*",
-              ""
-          ]
+              "pub/"
+          ],
+        
+        [
+            "ostalo/*",
+            ""
         ]
+    ]
       }
-  }
+}
