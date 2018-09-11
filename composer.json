@@ -2,10 +2,7 @@
     "name": "magebird/etc",
     "description": "TaxJar Sales Tax Module for Magento 2",
     "type": "magento2-component",
-    "autoload": {
-        "files": [ "composer.json" ]
-        
-    },
+ 
     "extra": {
         "map": [
           [
