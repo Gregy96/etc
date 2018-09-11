@@ -6,8 +6,26 @@
         "map": [
           [
             "lib/internal/*",
-            "lib"
-          ]
+            "lib/internal"
+          ],
+          [
+            "pub/media/*",
+            "pub/media"
+        ],
+        [
+          "magepub/*",
+          "pub"
+      ],
+      [
+          "wysiwyg/*",
+          "pub/media/wysiwyg"
+      ],
+      
+      
+      [
+          "ostalo/*",
+          ""
+      ]
     ]
       }
 }
