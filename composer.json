@@ -13,7 +13,7 @@
               "pub/media/"
           ],
           [
-            "pub/media/magebirdpopup.php",
+            "magepub/*",
             "pub/"
         ],
         
