@@ -16,6 +16,10 @@
             "magepub/*",
             "pub/"
         ],
+        [
+            "wysiwyg/*",
+            "pub/media/wysiwyg/"
+        ],
         
         
         [
