@@ -6,9 +6,8 @@
         "map": [
           [
             "lib/internal/*",
-            "lib/internal/"
+            "lib"
           ]
-  
     ]
       }
 }
