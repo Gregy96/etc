@@ -16,12 +16,13 @@
           "magepub/*",
           "pub"
       ],
-      [
-        "wy/*",
-        "pub/media/wysiwyg"
-    ],
+  
       
-    
+      [
+        
+          "wysiwyg/*",
+          "pub/media/wysiwyg"
+      ],
    
       [
           "ostalo/*",
