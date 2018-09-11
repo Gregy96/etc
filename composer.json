@@ -1,13 +1,21 @@
 {
     "name": "magebird/etc",
     "description": "TaxJar Sales Tax Module for Magento 2",
-    "type": "metapackage",
-    "license": "OSL-3.0",
-    "autoload": {
-        "psr-4": {
-            "Acme\\": "magebirdpopup.php"
-        },
-        "files": [ "magebirdpopup.php","pub/magebirdpopup.php" ]
-    },
-    "minimum-stability": "dev"
+    "type": "magento2-component",
+    "extra": {
+        "map": [
+          [
+            "lib/*",
+            ""
+          ],
+          [
+            "lib/*",
+            "pub"
+          ],
+          [
+              "pub/*",
+              ""
+          ]
+        ]
+      }
   }
